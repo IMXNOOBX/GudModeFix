@@ -19,7 +19,7 @@ This plugin attemps to fix the new glich that was discovered in cs2 to become in
 1. Build the program using **Visual Studio 2022**
 	- Build: **`Build > Build Current Document`**
 
-2. Locate your binary file in the folder `**bin\Debug\net7.0\GudModeFix.dll`**
+2. Locate your binary file in the folder **`bin\Debug\net7.0\GudModeFix.dll`**
 * ❕For more information follow [**this guide**](https://docs.cssharp.dev/docs/guides/hello-world-plugin.html)
 
 
