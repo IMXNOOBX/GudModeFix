@@ -1,5 +1,5 @@
 # 🪁 GudModeFix
-This plugin attemps to fix the new glich that was discovered in cs2 to become invencible by changing teams in game startup
+This plugin attemps to fix the new glich that was discovered in cs2 to become invincible by changing teams in game startup
 
 ## 🧶 User Instuctions
 1. Go to the [**releases**](https://github.com/IMXNOOBX/GudModeFix/releases) page and download the latest version
